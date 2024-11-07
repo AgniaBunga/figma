@@ -1,0 +1,74 @@
+
+ul {
+  list-style-type: none;
+  margin: 10px;
+  padding: 10px;
+  overflow: hidden;
+  background-color: rgb(5, 3, 5);
+  display: flex;
+  justify-content: space-between;
+}
+.main-content{
+  display: flex;
+}
+.main-content img{
+  width: 200px;
+  height: 200px;
+}
+.info{
+  background-color: rgb(168, 156, 140);
+}
+.Kurikulum{
+  background-color: rgb(173, 137, 167);
+}
+.Guru{
+  background-color: rgb(228, 186, 233);
+}
+.facilitas{
+  background-color: darkgray;
+}
+.contactfollow{
+  background-color: darkorchid;
+}
+.bawah{
+  background-color: rgb(181, 140, 194);
+}
+
+li a {
+  float: left;
+  text-decoration: none;
+  color: aliceblue;
+}
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+.bloka{
+  display: flex;
+}
+.blokb{
+  display: flex;
+}
+.blokc{
+  display: flex;
+}
+.blokd{
+  display: flex;
+}
+
